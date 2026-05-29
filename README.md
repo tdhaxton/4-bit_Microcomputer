@@ -1,4 +1,4 @@
-# 4-bit_Microcomputer
+# 4-bit-Microcomputer
 fully-functional 4-register, 4-bit microcomputer in VHDL, implementing a complete hierarchical digital system across eight interdependent components.
 
 This project involved designing the MCA-4 microcomputer, which is a microcomputer with
